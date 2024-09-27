@@ -1,0 +1,105 @@
+pwd
+ssh harshit@16.16.56.129
+logout
+sudo adduser rocky
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd rocky
+ssh harshit@13.51.161.37
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+ssh harshit@13.51.161.37
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+ssh harshit@13.51.161.37
+sudo vi /etc/ssh/sshd_config
+
+ssh harshit@13.51.161.37
+sudo adduser harry
+sudo passwd harry
+ssh harry@13.51.161.37
+exit
+sudo yum update
+java -version
+sudo yum install java-17-openjdk
+java -version
+sudo yum install wget
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727161882_776abe7d4563c7f6be53c3a821922b6f
+ls -lh
+ls
+history
+ls
+mv 'oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm?AuthParam=1727161882_776abe7d4563c7f6be53c3a821922b6f' oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+sudo install compat-openssl10
+dnf install compat-openssl10
+sudo su -
+sudo install 	compat-openssl10-1.0.2o-3.el8.x86_64.rpm
+wget 	https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackageSource/compat-openssl10-1.0.2o-4.el8_6.src.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.rpm.1
+ls
+rm com*
+ls
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+history
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo /etc/init.d/oracle-xe-21c configure
+sudo service oracle-xe-21c start
+sudo lsnrctl status
+lsnrctl status
+sudo yum install screen
+sudo yum install tmux
+sqlplus
+sudo cat /etc/shadow | grep username
+sqlplus
+alter session set "_ORACLE_SCRIPT"=true;
+create user harshit identified by harshit123;
+sqlplus
+cd .ssh
+ls
+cat authorized_keys 
+vi authorized_keys 
+ imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+create user classicmodels identified by classicmodels123;
+sudo service oracle-xe-21c start
+sqlplus
+ imp classicmodels/classicmodels123 FULL=y File=./classicmodels.dmp
+ imp classicmodels/classicmodels FULL=y File=./classicmodels.dmp
+sql plus
+sqlplus
+history
+imp classicmodels/classicmodels FULL=y File=./classicmodels.dmp
+history
+sudo yum install git
+ssh-keygen -t rsa -b 4096 -C "harshit2851@gmail.com"
+cat /home/ec2-user/.ssh/id_rsa.pub
+git clone git@github.com:harshitMaurya28/training-biz-harshit.git
+ls
+cd training-biz-harshit/
+ls
+touch push_history.sh
+vi push_history.sh 
+cat push_history.sh 
+chmod +x training-biz-harshit/push_history.sh
+ls
+chmod +x push_history.sh 
+ls -a
+sudo bash
+cd ..
+ls -a
+vi .bashrc
+source .bashrc
+crontab -e
+lls
+ls
