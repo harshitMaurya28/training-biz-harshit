@@ -104,3 +104,4 @@ crontab -e
 lls
 ls
 cd training-biz-harshit/
+cd ..
