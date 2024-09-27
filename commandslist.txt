@@ -108,3 +108,7 @@ cd ..
 cat push_history.sh
 cd training-biz-harshit/
 cat push_history.sh
+git add .
+git push -u origin main
+ls
+git add push_history.sh 
