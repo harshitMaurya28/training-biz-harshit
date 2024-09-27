@@ -112,3 +112,4 @@ git add .
 git push -u origin main
 ls
 git add push_history.sh 
+git push origin main
