@@ -105,3 +105,6 @@ lls
 ls
 cd training-biz-harshit/
 cd ..
+cat push_history.sh
+cd training-biz-harshit/
+cat push_history.sh
