@@ -118,3 +118,4 @@ history
 ls
 ls | wc
 ls
+ls | wc -l
