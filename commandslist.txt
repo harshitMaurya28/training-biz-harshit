@@ -123,3 +123,5 @@ ls | wc -c
 ls
 ls | wc -c
 ls | grep ".txt"
+ls | grep '.txt'
+ls | grep '.dmp'
