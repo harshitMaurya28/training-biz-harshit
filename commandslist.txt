@@ -116,3 +116,5 @@ git push origin main
 ls
 history
 ls
+ls | wc
+ls
