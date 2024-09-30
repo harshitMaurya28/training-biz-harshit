@@ -119,3 +119,5 @@ ls
 ls | wc
 ls
 ls | wc -l
+ls | wc -c
+ls
