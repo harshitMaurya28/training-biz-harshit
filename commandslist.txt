@@ -121,3 +121,5 @@ ls
 ls | wc -l
 ls | wc -c
 ls
+ls | wc -c
+ls | grep ".txt"
