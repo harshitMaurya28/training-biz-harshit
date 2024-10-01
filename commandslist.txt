@@ -126,3 +126,10 @@ ls | grep ".txt"
 ls | grep '.txt'
 ls | grep '.dmp'
 ls
+mkdir temp
+ls
+cd temp
+ls
+cd .. 
+rmdir temp
+cd temp
