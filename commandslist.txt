@@ -136,3 +136,7 @@ cd temp
 touch temp.txt
 ls
 rm temp.txt
+vi temp.txt
+ls
+rm file.txt
+ls
