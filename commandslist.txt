@@ -140,3 +140,5 @@ vi temp.txt
 ls
 rm file.txt
 ls
+history
+ chmod u+x push_history.sh
