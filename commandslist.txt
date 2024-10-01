@@ -142,3 +142,4 @@ rm file.txt
 ls
 history
  chmod u+x push_history.sh
+chmod u+x training-biz-harshit/push_history.sh
