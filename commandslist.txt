@@ -133,3 +133,6 @@ ls
 cd .. 
 rmdir temp
 cd temp
+touch temp.txt
+ls
+rm temp.txt
