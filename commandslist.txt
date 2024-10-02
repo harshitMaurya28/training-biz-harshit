@@ -160,3 +160,6 @@ sed 's/Hi/Hello/g' file1.txt
 cat file1.txt
 sed -i 's/Hi/Hello/g' file1.txt
 cat file1.txt
+ls
+rm file1.txt
+ls
