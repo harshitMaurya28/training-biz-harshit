@@ -155,3 +155,8 @@ sed 's/hi/hello/' file1.txt
 cat file1.txt
 vi file1.txt
 cat file1.txt
+sed 's/Hi/Hello/' file1.txt
+sed 's/Hi/Hello/g' file1.txt
+cat file1.txt
+sed -i 's/Hi/Hello/g' file1.txt
+cat file1.txt
