@@ -163,3 +163,4 @@ cat file1.txt
 ls
 rm file1.txt
 ls
+free -g
