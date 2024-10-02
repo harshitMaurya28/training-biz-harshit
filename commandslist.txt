@@ -152,3 +152,4 @@ vi file1.txt
 cat file1.txt
 sed 's/hi/hello' file1.txt
 sed 's/hi/hello/' file1.txt
+cat file1.txt
