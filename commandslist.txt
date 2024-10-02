@@ -164,3 +164,4 @@ ls
 rm file1.txt
 ls
 free -g
+du -h
