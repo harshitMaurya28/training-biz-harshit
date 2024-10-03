@@ -203,3 +203,10 @@ ftp 192.168.1.10
 sudo su -
 sudo yum install ftp
 ftp 192.168.1.10
+ls
+mkdir dir1
+cd dir1
+touch file3.txt
+touch file4.txt
+mkdir dir2
+cd dir2
