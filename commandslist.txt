@@ -166,3 +166,5 @@ ls
 free -g
 du -h
 du -ah
+fu -ah
+df -ah
