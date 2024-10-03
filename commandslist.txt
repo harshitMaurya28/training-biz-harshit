@@ -223,3 +223,4 @@ ls | wc -l
 cd dir1
 ls
 cd ..
+ls | wc -l
