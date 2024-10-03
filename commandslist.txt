@@ -169,3 +169,4 @@ du -ah
 fu -ah
 df -ah
 top
+uname -a
