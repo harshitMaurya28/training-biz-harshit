@@ -255,3 +255,4 @@ ls | wc -r -l
 ls
 find ls | wc -l
 find dir1 | wc -l
+rm -rf dir1
