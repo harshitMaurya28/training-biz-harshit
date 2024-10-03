@@ -265,3 +265,4 @@ telnet example.com
 sudo yum install telnet
 sudo su -
 telnet example.com
+telnet example.com 80
