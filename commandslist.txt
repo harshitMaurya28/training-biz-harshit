@@ -264,3 +264,4 @@ ping www.google.com
 telnet example.com
 sudo yum install telnet
 sudo su -
+telnet example.com
