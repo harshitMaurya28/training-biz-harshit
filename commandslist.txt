@@ -190,3 +190,6 @@ ls
 cd training-biz-harshit/
 ls
 crontab -l
+cd ..
+ls
+grep 'I' file1.txt
