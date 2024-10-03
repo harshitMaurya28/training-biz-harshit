@@ -185,3 +185,4 @@ vi file1.txt
 cat file1.txt
 head file1.txt
 wc file1.txt
+wc -l file1.txt
