@@ -197,3 +197,4 @@ find file1.txt
 touch file2.txt
 ls
 find . -name "*.txt"
+cd ..
