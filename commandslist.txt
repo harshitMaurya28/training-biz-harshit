@@ -181,3 +181,6 @@ rm file2.txt
 ls
 ps -ef
 ls
+vi file1.txt
+cat file1.txt
+head file1.txt
