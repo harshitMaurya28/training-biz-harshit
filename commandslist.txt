@@ -266,3 +266,6 @@ sudo yum install telnet
 sudo su -
 telnet example.com
 telnet example.com 80
+su su -
+sudo su-
+sudo su -
