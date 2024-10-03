@@ -247,3 +247,8 @@ mkdir dir2
 cd dir2
 touch file5.txt
 touch file6.txt
+ls
+cd ..
+ls
+ls | wc -l -r
+ls | wc -r -l
