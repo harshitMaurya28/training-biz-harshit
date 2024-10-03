@@ -168,3 +168,4 @@ du -h
 du -ah
 fu -ah
 df -ah
+top
