@@ -202,3 +202,4 @@ ls
 ftp 192.168.1.10
 sudo su -
 sudo yum install ftp
+ftp 192.168.1.10
