@@ -273,3 +273,6 @@ telnet example.com 80
 nslookup example.com
 ifconfig
 cat file1.txt
+awk '{ print $1 }' file1.txt
+awk '{ print 2 }' file1.txt
+awk '{ print $2 }' file1.txt
