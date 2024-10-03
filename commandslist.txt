@@ -171,3 +171,6 @@ df -ah
 top
 uname -a
 hostname
+ls
+touch file1.txt
+touch file2.txt
