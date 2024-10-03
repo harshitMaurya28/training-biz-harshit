@@ -228,3 +228,6 @@ ls
 rm dir1
 rm -rf dir1
 ls
+mkdir dir1
+touch file3.txt
+touch file4.txt
