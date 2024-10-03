@@ -240,3 +240,10 @@ rm dir2
 rm -rf dir2
 ls
 cd dir1
+ls
+touch file3.txt
+touch file4.txt
+mkdir dir2
+cd dir2
+touch file5.txt
+touch file6.txt
