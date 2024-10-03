@@ -226,3 +226,5 @@ cd ..
 ls | wc -l
 ls
 rm dir1
+rm -rf dir1
+ls
