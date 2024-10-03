@@ -231,3 +231,12 @@ ls
 mkdir dir1
 touch file3.txt
 touch file4.txt
+mkdir dir2
+ls
+rm file3.txt
+rm file4.txt
+ls
+rm dir2
+rm -rf dir2
+ls
+cd dir1
