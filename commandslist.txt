@@ -259,3 +259,4 @@ rm -rf dir1
 sudo su -
 echo 'Hello'
 pwd
+ping example.com
