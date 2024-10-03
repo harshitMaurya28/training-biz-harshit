@@ -194,3 +194,6 @@ cd ..
 ls
 grep 'I' file1.txt
 find file1.txt
+touch file2.txt
+ls
+find . -name "*.txt"
