@@ -271,3 +271,4 @@ sudo su-
 sudo su -
 telnet example.com 80
 nslookup example.com
+ifconfig
