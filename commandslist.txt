@@ -217,3 +217,7 @@ cd ..
 ls
 cd ..
 ls
+ls | wc -l
+ls | wc 
+ls | wc -l
+cd dir1
