@@ -276,3 +276,4 @@ cat file1.txt
 awk '{ print $1 }' file1.txt
 awk '{ print 2 }' file1.txt
 awk '{ print $2 }' file1.txt
+~/.bash_profile
