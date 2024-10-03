@@ -260,3 +260,4 @@ sudo su -
 echo 'Hello'
 pwd
 ping example.com
+ping www.google.com
