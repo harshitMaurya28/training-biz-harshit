@@ -252,3 +252,6 @@ cd ..
 ls
 ls | wc -l -r
 ls | wc -r -l
+ls
+find ls | wc -l
+find dir1 | wc -l
