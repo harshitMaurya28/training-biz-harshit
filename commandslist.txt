@@ -198,3 +198,4 @@ touch file2.txt
 ls
 find . -name "*.txt"
 cd ..
+ls
