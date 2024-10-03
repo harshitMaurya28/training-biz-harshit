@@ -261,3 +261,6 @@ echo 'Hello'
 pwd
 ping example.com
 ping www.google.com
+telnet example.com
+sudo yum install telnet
+sudo su -
