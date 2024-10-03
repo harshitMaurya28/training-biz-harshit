@@ -258,3 +258,4 @@ find dir1 | wc -l
 rm -rf dir1
 sudo su -
 echo 'Hello'
+pwd
