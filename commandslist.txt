@@ -291,3 +291,4 @@ sudo yum update
 ls
 ls -al
 ls
+sudo yum update -y
