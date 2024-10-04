@@ -284,3 +284,4 @@ sudo yum update
 sudo yum install mailutils sysstat
 sudo yum install mailutils
 sudo yum install sendmail
+sudo yum install python3
