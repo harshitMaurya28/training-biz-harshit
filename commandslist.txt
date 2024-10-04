@@ -280,3 +280,4 @@ awk '{ print $2 }' file1.txt
 ls
 sudo apt update
 sudo yum apt update
+sudo yum update
