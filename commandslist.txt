@@ -279,3 +279,4 @@ awk '{ print $2 }' file1.txt
 ~/.bash_profile
 ls
 sudo apt update
+sudo yum apt update
