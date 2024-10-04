@@ -277,3 +277,5 @@ awk '{ print $1 }' file1.txt
 awk '{ print 2 }' file1.txt
 awk '{ print $2 }' file1.txt
 ~/.bash_profile
+ls
+sudo apt update
