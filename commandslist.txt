@@ -282,3 +282,4 @@ sudo apt update
 sudo yum apt update
 sudo yum update
 sudo yum install mailutils sysstat
+sudo yum install mailutils
