@@ -295,3 +295,4 @@ sudo yum update -y
 sudo yum update -y
 vi .ssh/authorized_keys 
 cat .ssh/authorized_keys 
+sudo yum update -y
