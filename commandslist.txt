@@ -286,3 +286,4 @@ sudo yum install mailutils
 sudo yum install sendmail
 sudo yum install python3
 sudo yum install sendmail
+sudo yum install tinycdb
