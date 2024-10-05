@@ -298,3 +298,4 @@ cat .ssh/authorized_keys
 sudo yum update -y
 sudo yum install -y
 sudo yum update -y
+sudo yum install sendmail
