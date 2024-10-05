@@ -325,3 +325,4 @@ ls
 cd ec2-user/
 ls
 chmod u+x email_script.sh 
+./email_script.sh 
