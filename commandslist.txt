@@ -333,3 +333,4 @@ tail -f /var/spool/mail/ec2-user
 chmod u+x email_script.sh 
 mail
 sudo yum install mailx
+cat /var/spool/mail/ec2-user
