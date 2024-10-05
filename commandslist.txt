@@ -308,3 +308,9 @@ vi email_script.sh
 /email_script.sh
 history
 chmod u+x email_script.sh
+sudo systemctl start sendmail
+sudo systemctl enable sendmail
+sudo systemctl start sendmail
+sudo systemctl enable sendmail
+vi email_script.sh 
+chmod u+x email_script.sh 
