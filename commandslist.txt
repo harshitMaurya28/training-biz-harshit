@@ -337,3 +337,4 @@ cat /var/spool/mail/ec2-user
 vi email_script.sh 
 cat email_script.sh 
 cat email_script.log
+./email_script.sh 
