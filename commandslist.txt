@@ -338,3 +338,5 @@ vi email_script.sh
 cat email_script.sh 
 cat email_script.log
 ./email_script.sh 
+sudo yum update
+sudo yum install python3 pyhton3-pip
