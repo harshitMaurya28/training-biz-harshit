@@ -300,3 +300,5 @@ sudo yum install -y
 sudo yum update -y
 sudo yum install sendmail
 sudo yum update
+sudo yum install mailutils sysstat
+sudo yum install sendmail
