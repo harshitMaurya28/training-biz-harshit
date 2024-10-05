@@ -340,3 +340,7 @@ cat email_script.log
 ./email_script.sh 
 sudo yum update
 sudo yum install python3 pyhton3-pip
+pip3 install psutil
+sudo yum install pip
+sudo yum install python3 pyhton3-pip
+pip3 install psutil
