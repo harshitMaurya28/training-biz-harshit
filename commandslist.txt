@@ -304,3 +304,4 @@ sudo yum install mailutils sysstat
 sudo yum install sendmail
 sudo systemctl start sendmail
 sudo systemctl enable sendmail
+vi email_script.sh
