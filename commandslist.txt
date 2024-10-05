@@ -322,3 +322,5 @@ cd ..
 ls
 cd home
 ls
+cd ec2-user/
+ls
