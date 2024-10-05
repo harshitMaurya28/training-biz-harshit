@@ -316,3 +316,9 @@ vi email_script.sh
 chmod u+x email_script.sh 
 ./email_script.sh 
 ls
+cd ..
+ls
+cd ..
+ls
+cd home
+ls
