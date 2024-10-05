@@ -329,3 +329,4 @@ chmod u+x email_script.sh
 ls -l email_script.sh 
 ./email_script.sh 
 tail -f /var/log/maillog
+tail -f /var/spool/mail/ec2-user
