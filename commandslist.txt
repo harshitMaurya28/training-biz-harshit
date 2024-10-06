@@ -360,3 +360,4 @@ python3 send_email.py
 ./send_email.py 
 time
 date
+python3 send_email.py
