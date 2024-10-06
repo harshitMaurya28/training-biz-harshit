@@ -361,3 +361,4 @@ python3 send_email.py
 time
 date
 python3 send_email.py
+crontab -e
