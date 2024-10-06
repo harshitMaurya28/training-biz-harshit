@@ -358,3 +358,5 @@ chmod u+x send_email.py
 ./send_email.py 
 python3 send_email.py
 ./send_email.py 
+time
+date
