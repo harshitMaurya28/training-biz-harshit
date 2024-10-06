@@ -347,3 +347,5 @@ pip3 install psutil
 vi send_email.py
 chmod u+x send_email.py 
 ls
+vi send_email.py 
+./send_email.py 
