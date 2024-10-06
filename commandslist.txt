@@ -349,3 +349,4 @@ chmod u+x send_email.py
 ls
 vi send_email.py 
 ./send_email.py 
+sudo yum install smtplib
