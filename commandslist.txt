@@ -372,3 +372,6 @@ vi payments_data_classicmodels.csv
 rm payments_data_classicmodels.csv 
 ls
 vi payments_data_classicmodels.csv 
+ls
+exit
+vi payments_data_classicmodels.csv 
