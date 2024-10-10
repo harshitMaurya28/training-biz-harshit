@@ -368,3 +368,6 @@ chmod u+x send_email.py
 vi send_email.py 
 crontab -e
 ls
+vi payments_data_classicmodels.csv 
+rm payments_data_classicmodels.csv 
+ls
