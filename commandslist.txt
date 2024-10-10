@@ -367,3 +367,4 @@ chmod u+x send_email.py
 ./send_email.py 
 vi send_email.py 
 crontab -e
+ls
