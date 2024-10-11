@@ -377,3 +377,4 @@ exit
 vi payments_data_classicmodels.csv 
 ls
 ls -al
+ls
