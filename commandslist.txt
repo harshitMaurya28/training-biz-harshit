@@ -419,3 +419,10 @@ rm file2.txt
 ls
 ./test.sh file1.txt file2.txt
 ls
+cd ..
+ls
+cd training-biz-harshit/
+ls
+cat commandslist.txt 
+ls
+cat push_history.sh 
