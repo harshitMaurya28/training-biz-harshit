@@ -426,3 +426,6 @@ ls
 cat commandslist.txt 
 ls
 cat push_history.sh 
+ls
+cd ..
+ls
