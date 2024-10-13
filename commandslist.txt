@@ -401,3 +401,4 @@ mv shell_scripting_assi/ shell_script_assignment
 ls
 cd shell_script_assignment/
 vi file1.txt
+vi file2.txt
