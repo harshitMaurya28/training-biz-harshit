@@ -431,3 +431,4 @@ cd ..
 ls
 history 
 ls
+sudo /etc/init.d/oracle-xe-21c configure
