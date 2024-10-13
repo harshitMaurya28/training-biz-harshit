@@ -434,3 +434,5 @@ ls
 sudo /etc/init.d/oracle-xe-21c configure
 sqlplus
 sqlplus harshit harshit123
+sqlplus harshit/harshit123
+sqlplus classicmodels/classicmodels123
