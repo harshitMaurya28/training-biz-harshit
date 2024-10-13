@@ -395,3 +395,5 @@ history
 ls
 clear
 ls
+mkdir shell_scripting_assi
+ls
