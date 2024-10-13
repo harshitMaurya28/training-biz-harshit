@@ -405,3 +405,6 @@ vi file2.txt
 vi file1.txt
 cat file1.txt
 cat file2.txt
+vi test.sh
+cat test.sh 
+ls
