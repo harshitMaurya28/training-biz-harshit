@@ -380,3 +380,4 @@ ls -al
 ls
 crontab -e
 ls
+cat email_script.sh
