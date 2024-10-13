@@ -381,3 +381,9 @@ ls
 crontab -e
 ls
 cat email_script.sh
+ls
+cat file1.txt
+cat file2.txt
+rm file1.txt
+rm file2.txt
+ls
