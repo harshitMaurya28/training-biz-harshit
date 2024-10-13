@@ -410,3 +410,7 @@ cat test.sh
 ls
 .test.sh file1.txt file2.txt
 ./test.sh file1.txt file2.txt
+chmod u+x test.sh 
+./test.sh file1.txt file2.txt
+cat file1.txt
+cat file2.txt
