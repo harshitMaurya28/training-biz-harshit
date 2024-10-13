@@ -408,3 +408,5 @@ cat file2.txt
 vi test.sh
 cat test.sh 
 ls
+.test.sh file1.txt file2.txt
+./test.sh file1.txt file2.txt
