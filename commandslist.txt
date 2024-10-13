@@ -436,3 +436,5 @@ sqlplus
 sqlplus harshit harshit123
 sqlplus harshit/harshit123
 sqlplus classicmodels/classicmodels123
+sqlplus classicmodels/classicmodels
+history
