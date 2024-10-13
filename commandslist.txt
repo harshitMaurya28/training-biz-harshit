@@ -429,3 +429,4 @@ cat push_history.sh
 ls
 cd ..
 ls
+history 
