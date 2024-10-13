@@ -392,3 +392,6 @@ ls
 cd ..
 ls
 history
+ls
+clear
+ls
