@@ -655,3 +655,5 @@ cd ~/lib/
 cd ~/test/
 cd ~/lib/
 ls ~/lib/
+cd ..
+cd ~/test/lib/python3.9/site-packages/
