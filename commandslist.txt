@@ -594,3 +594,8 @@ pip
 cd ..
 pip list
 ls
+cd ec2-user/
+ls
+pip list
+deactive
+deactivate
