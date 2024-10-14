@@ -648,3 +648,5 @@ pip install fastapi
 pip list
 ls
 pip list
+cd ..
+ls
