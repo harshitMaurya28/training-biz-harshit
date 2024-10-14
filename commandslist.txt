@@ -614,3 +614,7 @@ sudo yum install pip
 deactivate
 source test/bin/activate
 pip list
+rm -rf test3
+ls
+rm -rf test2
+ls
