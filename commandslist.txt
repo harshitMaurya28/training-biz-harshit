@@ -514,3 +514,4 @@ history
 find  /home/ec2-user/ -type l 
 deactivate
 virtualenv test
+source /home/ec2-user/test/bin/activate
