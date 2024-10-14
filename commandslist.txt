@@ -442,3 +442,5 @@ sudo service oracle-xe-21c start
 ps 
 ps -u ec2-user
 top
+find /home/ec2 -type f -name "*.jpg" -mtime +30 -exec rm {} \;
+ls
