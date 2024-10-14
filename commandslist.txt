@@ -513,3 +513,4 @@ history
  find /home/ec2-user/shell_script_assignment/ -type l -exec ls -l {} \
 find  /home/ec2-user/ -type l 
 deactivate
+virtualenv test
