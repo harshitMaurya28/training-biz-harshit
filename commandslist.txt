@@ -621,3 +621,5 @@ ls
 pip list
 rm -rf test
 virtualenv test
+source test/bin/activate
+pip list
