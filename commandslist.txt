@@ -636,3 +636,4 @@ cd /test/lib/python3.9/site-packages/
 source ~/test/bin/activate
 ls
 ls ~/test/lib/python3.9/
+cd ~/test/lib/python3.9/site-packages/
