@@ -650,3 +650,4 @@ ls
 pip list
 cd ..
 ls
+ls ~/test/
