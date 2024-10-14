@@ -458,3 +458,5 @@ ls
 cat file1.txt
 rm archive.zip 
 ls
+find /shell_script_assignment -type f -name "*.txt" -exec cat {} + | wc -l
+find home/ec2-user/shell_script_assignment -type f -name "*.txt" -exec cat {} + | wc -l
