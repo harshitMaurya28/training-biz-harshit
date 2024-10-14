@@ -654,3 +654,4 @@ ls ~/test/
 cd ~/lib/
 cd ~/test/
 cd ~/lib/
+ls ~/lib/
