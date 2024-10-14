@@ -522,3 +522,8 @@ deactivate
 ls
 rm test
 sudo yum install python-pip
+pip install virtualenv
+virtualenv --version
+virtualenv test2
+source test/bin/activate
+deactivate
