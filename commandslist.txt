@@ -531,3 +531,5 @@ source test2/bin/activate
 pip list
 pip install numpy
 pip install pandas
+pip install tensorflow
+pip list
