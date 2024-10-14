@@ -560,3 +560,6 @@ deactivate
 sudo yum install python-pip
 virtualenv test3
 source test3/bin/activate
+sudo apt install python3-pip
+pip list
+sudo yum install python3-pip
