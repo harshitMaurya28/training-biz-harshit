@@ -489,3 +489,4 @@ ps -ef | grep ec2-user | sort -k4
 ps -ef
 ps -u username --sort=-%cpu
 ps -u ec2-user --sort=-%cpu
+ls
