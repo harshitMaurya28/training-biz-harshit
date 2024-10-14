@@ -607,3 +607,7 @@ pip list
 pip install fastapi
 pip install psycopg2-binary
 pip list
+find test2/lib/python3.9/site-packages/ -maxdepth 1 -type d ! -name 'fastapi*' ! -name '__pycache__' ! -name 'setuptools*' ! -name 'pip*' -exec rm -rf {} +
+pip list
+sudo yum install pi[
+sudo yum install pip
