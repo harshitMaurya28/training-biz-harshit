@@ -604,3 +604,4 @@ pip list
 deactivate
 source test2/bin/activate
 pip list
+pip install fastapi
