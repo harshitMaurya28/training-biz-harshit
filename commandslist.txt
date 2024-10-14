@@ -623,3 +623,6 @@ rm -rf test
 virtualenv test
 source test/bin/activate
 pip list
+pip install fastapi psycopg2-binary
+pip install psycopg2-binary
+pip list
