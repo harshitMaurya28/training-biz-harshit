@@ -681,3 +681,7 @@ vi remove_packages.sh
 cat remove_packages.sh 
 deactivate
 find /home/ec2-user/ -type l -exec ls -l {} \;
+ls
+cd shell_script_assignment/
+ls
+cat test.sh 
