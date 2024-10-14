@@ -599,3 +599,8 @@ ls
 pip list
 deactive
 deactivate
+source test3/bin/activate
+pip list
+deactivate
+source test2/bin/activate
+pip list
