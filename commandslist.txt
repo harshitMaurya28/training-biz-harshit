@@ -644,3 +644,7 @@ pip install fastapi
 pip list
  find . -maxdepth 1 -type d ! -name 'fastapi*' ! -name 'psycopg2_binary*' ! -name 'setuptools*' ! -name 'pip*' -exec rm -rf {} +
 pip list
+pip install fastapi
+pip list
+ls
+pip list
