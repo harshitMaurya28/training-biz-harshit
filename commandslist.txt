@@ -447,3 +447,7 @@ ls
 find /home/ec2-user -type f -name "*.jpg" -mtime +30 -exec rm {} \;
 cat /var/spool/mail/ec2-user
 clear
+ls
+cd ..
+ls
+cd ec2-user/
