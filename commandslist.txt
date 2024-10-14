@@ -583,3 +583,4 @@ python --version
 virtualenv --version
 find test/lib/python3.9/site-packages/ -maxdepth 1 -type d ! -name 'fastapi*' -exec rm -rf {} +
 pip list
+find test/lib/python3.9/site-packages/ -maxdepth 1 -type d ! -name 'fastapi*' -exec rm -rf {} +
