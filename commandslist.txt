@@ -663,3 +663,5 @@ pip list
 pip install fastapi
 pip list
 cd ..
+ls
+touch remove_packages.sh
