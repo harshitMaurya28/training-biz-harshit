@@ -570,3 +570,5 @@ sudo yum install python3-pip
 pip list
 pip install tensorflow
 pip list
+pip install fastapi psycopg2
+pip install fastapi 
