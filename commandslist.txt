@@ -515,3 +515,4 @@ find  /home/ec2-user/ -type l
 deactivate
 virtualenv test
 source /home/ec2-user/test/bin/activate
+find $(python -c 'import site; print(site.getsitepackages()[0])') -type d ! -name "psycopg2*" ! -name "fastapi*" -exec rm -rf {} +
