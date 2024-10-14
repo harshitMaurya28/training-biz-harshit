@@ -474,3 +474,7 @@ chmod
 cd ..
 ls
 ls -al
+ls
+cd shell_script_assignment/
+ls
+cat file1.txt
