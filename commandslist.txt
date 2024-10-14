@@ -640,3 +640,5 @@ cd ~/test/lib/python3.9/site-packages/
 find . -maxdepth 1 -type d ! -name 'fastapi*' ! -name 'psycopg2_binary*' ! -name '__pycache__' ! -name 'setuptools*' ! -name 'pip*' -exec rm -rf {} +
 find . -maxdepth 1 -type d ! -name '.' ! -name 'fastapi*' ! -name 'psycopg2_binary*' ! -name '__pycache__' ! -name 'setuptools*' ! -name 'pip*' -exec rm -rf {} +
 pip list
+pip install fastapi
+pip list
