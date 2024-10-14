@@ -633,3 +633,6 @@ pip list
 pip install fastapi
 pip list
 cd /test/lib/python3.9/site-packages/
+source ~/test/bin/activate
+ls
+ls ~/test/lib/python3.9/
