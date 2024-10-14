@@ -491,3 +491,7 @@ ps -u username --sort=-%cpu
 ps -u ec2-user --sort=-%cpu
 ls
 find /home/ec2-user/ -type l -exec ls -l {} ls
+find /home/ec2-user/shell_script_assignment/ -type l -exec ls -l {} \
+ls
+find . -type l -ls
+find /home/ec2-user/shell_script_assignment/ -type l -exec ls {} \
