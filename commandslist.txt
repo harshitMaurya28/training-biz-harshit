@@ -630,3 +630,5 @@ pip freeze | grep -v 'fastapi' | grep -v 'psycopg2-binary' > uninstall.txt
 cat uninstall.txt 
 xargs pip uninstall -y < uninstall.txt
 pip list
+pip install fastapi
+pip list
