@@ -673,3 +673,6 @@ pip install psycopg2-binary
 pip list
 pip install fastapi
 pip list
+vi remove_packages.sh 
+chmod +x remove_packages.sh
+./remove_packages.sh 
