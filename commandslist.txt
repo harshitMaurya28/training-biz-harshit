@@ -534,3 +534,6 @@ pip install pandas
 pip install tensorflow
 pip list
 source test/bin/activate
+deactivate
+source test/bin/activate
+pip list
