@@ -451,3 +451,5 @@ ls
 cd ..
 ls
 cd ec2-user/
+find /home/ec2-user/shell_script_assignment/ -type f -name "*.txt" | zip /home/ec2-user/shell_script_assignment/archive.zip -@
+ls
