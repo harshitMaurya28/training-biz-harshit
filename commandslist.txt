@@ -550,3 +550,6 @@ find $(python -c 'import site; print(site.getsitepackages()[0])') -type d ! -nam
 pip list
 pip uninstall six
 ls
+source /test/bin/activate
+source test/bin/activate
+pip list
