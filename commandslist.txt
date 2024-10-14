@@ -553,3 +553,5 @@ ls
 source /test/bin/activate
 source test/bin/activate
 pip list
+deactivate
+source test2/bin/activate
