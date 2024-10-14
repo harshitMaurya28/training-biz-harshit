@@ -518,3 +518,7 @@ source /home/ec2-user/test/bin/activate
 find $(python -c 'import site; print(site.getsitepackages()[0])') -type d ! -name "psycopg2*" ! -name "fastapi*" -exec rm -rf {} +
 pip list
 pip freeze
+deactivate
+ls
+rm test
+sudo yum install python-pip
