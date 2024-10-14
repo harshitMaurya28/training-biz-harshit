@@ -539,3 +539,5 @@ source test/bin/activate
 pip list
 pip install numpy
 pip install pandas
+find $(python -c 'import site; print(site.getsitepackages()[0])') -type d ! -name "psycopg2*" ! -name "fastapi*" -exec rm -rf {} +
+pip list
