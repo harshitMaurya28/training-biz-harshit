@@ -657,3 +657,6 @@ cd ~/lib/
 ls ~/lib/
 cd ..
 cd ~/test/lib/python3.9/site-packages/
+find . -maxdepth 1 -type d ! -name 'fastapi*' ! -name 'psycopg2_b
+inary*' ! -name 'setuptools*' ! -name 'pip*' -exec rm -rf {} +
+pip list
