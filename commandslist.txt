@@ -618,3 +618,6 @@ rm -rf test3
 ls
 rm -rf test2
 ls
+pip list
+rm -rf test
+virtualenv test
