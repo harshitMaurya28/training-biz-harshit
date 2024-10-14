@@ -510,3 +510,4 @@ ls
 cd test
 virtualenv test
 history
+ find /home/ec2-user/shell_script_assignment/ -type l -exec ls -l {} \
