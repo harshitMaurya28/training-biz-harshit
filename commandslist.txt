@@ -439,3 +439,5 @@ sqlplus classicmodels/classicmodels123
 sqlplus classicmodels/classicmodels
 history
 sudo service oracle-xe-21c start
+ps 
+ps -u ec2-user
