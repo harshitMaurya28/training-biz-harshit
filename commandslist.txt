@@ -509,3 +509,4 @@ virtualenv test
 ls
 cd test
 virtualenv test
+history
