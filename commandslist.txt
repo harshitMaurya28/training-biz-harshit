@@ -557,3 +557,6 @@ deactivate
 source test2/bin/activate
 pip list
 deactivate
+sudo yum install python-pip
+virtualenv test3
+source test3/bin/activate
