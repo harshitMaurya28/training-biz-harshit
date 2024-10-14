@@ -490,3 +490,4 @@ ps -ef
 ps -u username --sort=-%cpu
 ps -u ec2-user --sort=-%cpu
 ls
+find /home/ec2-user/ -type l -exec ls -l {} ls
