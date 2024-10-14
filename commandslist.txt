@@ -465,3 +465,7 @@ cd ..
 ls
 chmod u+x email_script.sh
 chmod email_script.sh
+chmod --help
+cd shell_script_assignment/
+ls
+chmod u+x file1.txt
