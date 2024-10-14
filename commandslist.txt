@@ -578,3 +578,6 @@ pip list
 find wheel
 find test/lib/pythonX.X/site-packages/ -maxdepth 1 -type d ! -name 'fastapi*' -exec rm -rf {} +
 ls
+python version
+python --version
+virtualenv --version
