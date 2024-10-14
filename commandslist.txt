@@ -546,3 +546,5 @@ pip install psycopg2-binary
 pip install psycopg2
 pip install fastapi
 pip list
+find $(python -c 'import site; print(site.getsitepackages()[0])') -type d ! -name "psycopg2*" ! -name "fastapi*" -exec rm -rf {} +
+pip list
