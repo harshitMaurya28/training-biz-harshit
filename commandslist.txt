@@ -568,3 +568,5 @@ sudo yum install python-pip
 pip list
 sudo yum install python3-pip
 pip list
+pip install tensorflow
+pip list
