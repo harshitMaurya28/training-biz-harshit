@@ -527,3 +527,5 @@ virtualenv --version
 virtualenv test2
 source test/bin/activate
 deactivate
+source test2/bin/activate
+pip list
