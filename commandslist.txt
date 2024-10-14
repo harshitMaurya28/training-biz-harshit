@@ -651,3 +651,4 @@ pip list
 cd ..
 ls
 ls ~/test/
+cd ~/lib/
