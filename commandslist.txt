@@ -504,3 +504,5 @@ $ sudo apt-get install python-pip
  sudo apt-get install python-pip
 sudo yum install python-pip
 pip install virtualenv
+virtualenv --version
+virtualenv test
