@@ -676,3 +676,5 @@ pip list
 vi remove_packages.sh 
 chmod +x remove_packages.sh
 ./remove_packages.sh 
+pip list
+vi remove_packages.sh 
