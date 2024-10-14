@@ -665,3 +665,7 @@ pip list
 cd ..
 ls
 touch remove_packages.sh
+vi remove_packages.sh 
+chmod +x remove_packages.sh
+./remove_packages.sh
+pip list
