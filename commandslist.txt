@@ -679,3 +679,4 @@ chmod +x remove_packages.sh
 pip list
 vi remove_packages.sh 
 cat remove_packages.sh 
+deactivate
