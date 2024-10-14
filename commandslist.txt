@@ -478,3 +478,6 @@ ls
 cd shell_script_assignment/
 ls
 cat file1.txt
+find /shell_script_assignment/ -type f -name "*.txt" -exec cat {} + | wc -l
+cd ..
+ls
