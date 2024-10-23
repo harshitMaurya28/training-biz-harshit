@@ -734,3 +734,5 @@ find / -type f -name "*.csv" -size +1K | wc -l
 find / -type f -name "*.csv" -size +1Kb | wc -l
 find / -type f -name "*.csv" -size +1KB | wc -l
 find / -type f -name "*.csv" -size +1K | wc -l
+find / -type f -name "*.csv" -size -1M | wc -l
+find /home/ec2-user/ -type f -name "*.csv" -size -1M | wc -l
