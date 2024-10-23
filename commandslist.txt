@@ -687,3 +687,4 @@ ls
 cat test.sh 
 clear
 ls
+cat remove_packages.sh 
