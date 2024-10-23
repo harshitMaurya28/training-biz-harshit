@@ -745,3 +745,6 @@ ls
 clear
 find /home/ec2-user/ -type f -name "*.csv" -size +1k | wc -l
 find /home/ec2-user/ -type f -name "*.csv" -size -1M | wc -l
+find /home/ec2-user/ -type f -name "*.csv" -size -100k | wc -l
+lw
+ls
