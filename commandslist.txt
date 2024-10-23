@@ -706,3 +706,7 @@ mv test test_virtual_python_env
 ls
 cat email_script.
 cat email_script.sh
+ls
+]cat send_email.py 
+cat send_email.py 
+ls
