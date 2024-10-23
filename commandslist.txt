@@ -685,3 +685,4 @@ ls
 cd shell_script_assignment/
 ls
 cat test.sh 
+clear
