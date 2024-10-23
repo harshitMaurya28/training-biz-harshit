@@ -727,3 +727,6 @@ cd ..
 ls
 clear
 ls
+cd zippedfile.zip 
+clear
+ls
