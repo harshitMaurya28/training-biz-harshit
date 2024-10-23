@@ -710,3 +710,4 @@ ls
 ]cat send_email.py 
 cat send_email.py 
 ls
+mkdir email_assignment
