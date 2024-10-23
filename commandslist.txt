@@ -740,3 +740,8 @@ find /home/ec2-user/ -type f -name "*.csv" -size -1k | wc -l
 ls
 find /home/ec2-user/ -type f -name "*.csv" -size +1k | wc -l
 find /home/ec2-user/ -type f -name "*.csv" -size +500k | wc -l
+find /home/ec2-user/ -type f -name "*.csv" -size +200k | wc -l
+ls
+clear
+find /home/ec2-user/ -type f -name "*.csv" -size +1k | wc -l
+find /home/ec2-user/ -type f -name "*.csv" -size -1M | wc -l
