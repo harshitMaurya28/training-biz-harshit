@@ -704,3 +704,5 @@ cd ..
 mv test test(virtual_python_env)
 mv test test_virtual_python_env
 ls
+cat email_script.
+cat email_script.sh
