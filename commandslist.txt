@@ -751,3 +751,6 @@ ls
 cd shell_script_assignment/
 ls
 find /home/ec2-user/shell_script_assignment/ -type f -name "*.txt"
+ls -lh
+chmod u+x file2.txt
+ls -lh
