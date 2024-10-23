@@ -719,3 +719,7 @@ cd ..
 cat import_sys.sql 
 ls
 cat uninstall.txt 
+mv uninstall.txt /home/ec2-user/remove_packages_assignment/
+ls
+cd remove_packages_assignment/
+ls
