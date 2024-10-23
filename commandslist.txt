@@ -698,3 +698,9 @@ cd ..
 ls
 cd test
 ls
+mv test test(virtual_python_env)
+ls
+cd ..
+mv test test(virtual_python_env)
+mv test test_virtual_python_env
+ls
