@@ -688,3 +688,5 @@ cat test.sh
 clear
 ls
 cat remove_packages.sh 
+mkdir remove_packages_assignment
+ls
