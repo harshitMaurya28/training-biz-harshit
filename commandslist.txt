@@ -718,3 +718,4 @@ ls
 cd ..
 cat import_sys.sql 
 ls
+cat uninstall.txt 
