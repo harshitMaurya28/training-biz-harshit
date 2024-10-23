@@ -725,3 +725,5 @@ cd remove_packages_assignment/
 ls
 cd ..
 ls
+clear
+ls
