@@ -711,3 +711,5 @@ ls
 cat send_email.py 
 ls
 mkdir email_assignment
+mv email_script.sh email_script.log send_email.py /home/ec2-user/email_assignment/
+ls
