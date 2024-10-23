@@ -716,3 +716,5 @@ ls
 cd email_assignment/
 ls
 cd ..
+cat import_sys.sql 
+ls
