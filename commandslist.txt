@@ -690,3 +690,9 @@ ls
 cat remove_packages.sh 
 mkdir remove_packages_assignment
 ls
+mv remove_packages.sh /home/ec2-user/remove_packages_assignment/
+ls
+cd remove_packages_assignment/
+ls
+cd ..
+ls
