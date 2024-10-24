@@ -756,3 +756,9 @@ chmod u+x file2.txt
 ls -lh
 ls -lhS
 du -ah /home/ec2-user/shell_script_assignment/ | sort -rh
+ls
+clear
+ls
+cd shell_script_assignment/
+ls
+cat test.sh 
