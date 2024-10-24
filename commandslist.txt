@@ -766,3 +766,5 @@ ls
 ./test.sh file1.txt 
 ./test.sh file1.txt file2.txt file3.txt
 clear
+cd ..
+ls
