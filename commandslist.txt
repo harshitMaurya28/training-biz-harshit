@@ -762,3 +762,7 @@ ls
 cd shell_script_assignment/
 ls
 cat test.sh 
+ls
+./test.sh file1.txt 
+./test.sh file1.txt file2.txt file3.txt
+clear
